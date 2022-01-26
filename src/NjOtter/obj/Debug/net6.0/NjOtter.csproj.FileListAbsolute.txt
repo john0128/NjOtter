@@ -39,3 +39,16 @@ F:\주요작업\src\NjOtter\obj\Debug\net6.0\NjOtter.csproj.CoreCompileInputs.ca
 F:\주요작업\src\NjOtter\obj\Debug\net6.0\NjOtter.dll
 F:\주요작업\src\NjOtter\obj\Debug\net6.0\ref\NjOtter.dll
 F:\주요작업\src\NjOtter\obj\Debug\net6.0\NjOtter.genruntimeconfig.cache
+Z:\N913CODE\src\NjOtter\bin\Debug\net6.0\NjOtter.exe
+Z:\N913CODE\src\NjOtter\bin\Debug\net6.0\NjOtter.deps.json
+Z:\N913CODE\src\NjOtter\bin\Debug\net6.0\NjOtter.runtimeconfig.json
+Z:\N913CODE\src\NjOtter\bin\Debug\net6.0\NjOtter.dll
+Z:\N913CODE\src\NjOtter\bin\Debug\net6.0\ref\NjOtter.dll
+Z:\N913CODE\src\NjOtter\obj\Debug\net6.0\NjOtter.csproj.AssemblyReference.cache
+Z:\N913CODE\src\NjOtter\obj\Debug\net6.0\NjOtter.GeneratedMSBuildEditorConfig.editorconfig
+Z:\N913CODE\src\NjOtter\obj\Debug\net6.0\NjOtter.AssemblyInfoInputs.cache
+Z:\N913CODE\src\NjOtter\obj\Debug\net6.0\NjOtter.AssemblyInfo.cs
+Z:\N913CODE\src\NjOtter\obj\Debug\net6.0\NjOtter.csproj.CoreCompileInputs.cache
+Z:\N913CODE\src\NjOtter\obj\Debug\net6.0\NjOtter.dll
+Z:\N913CODE\src\NjOtter\obj\Debug\net6.0\ref\NjOtter.dll
+Z:\N913CODE\src\NjOtter\obj\Debug\net6.0\NjOtter.genruntimeconfig.cache
